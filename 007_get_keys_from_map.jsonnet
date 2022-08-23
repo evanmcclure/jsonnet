@@ -1,9 +1,9 @@
 local objects = {
-    blargle: {
-        blargle: 'flargle',
-    },
     foo: {
         foo: 'bar',
+    },
+    blargle: {
+        blargle: 'flargle',
     },
 };
 
